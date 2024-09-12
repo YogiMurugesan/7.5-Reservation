@@ -1,21 +1,26 @@
 @media screen and (max-width:700px) {
     .res{
-        background-color: #cc0000;
+        background-color: #cc0000   
         
+
     }
+    .res2{
+        font-size: 25px;
+    }
+    
     .center h6{
         color:black;
         font-weight: bold;  
         margin-top: 10px;
         text-align: center;
         margin-left: 50px;
-        font-size: 45px;
+        font-size: 30px;
     }
     .center h5{
             color:black;
             
             font-weight: bold;
-            font-size: 50px;
+            font-size: 30px;
             margin-top: 50px;
             text-align: center;
             margin-left:50px;
