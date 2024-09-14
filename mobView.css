@@ -26,8 +26,8 @@
     }
 
     .center .buttons{
-        width: 400px;
-        margin: 35px 86px 35px 88px;
+       width: 400px;
+       margin: 35px 86px 35px 88px;
     }
 
     .table{
@@ -38,8 +38,8 @@
         border: 2px solid black;
        
        
+       }
        
-    }
     .tab{
         text-align: center;
         font-size: 10px;
@@ -53,4 +53,5 @@
         
         height: 100vh;
     }
+   
 }
