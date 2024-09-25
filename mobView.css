@@ -14,7 +14,7 @@
         font-weight: bold;
         text-align: center;
         font-size: 30px;
-        margin: 108px;
+        margin: 110px;
     }
 
     .center h5{
@@ -22,12 +22,12 @@
         color:black;
         font-weight: bold;
         font-size: 30px;
-        margin-left: 120px;
+        margin-left: 125px;
     }
 
     .center .buttons{
        width: 400px;
-       margin: 35px 86px 35px 88px;
+       margin: 35px 90px 35px 90px;
     }
 
     .table{
